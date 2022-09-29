@@ -15,5 +15,6 @@ Let's take a look at it:-
 ![Screenshot (1378)](https://user-images.githubusercontent.com/87875997/193131313-520c460d-776c-465c-9ff6-848ed24c92b2.png)
 ![Screenshot (1376)](https://user-images.githubusercontent.com/87875997/193131333-b30de38a-1b7f-444f-95ce-5a9257bf6b92.png)
 
+Project_Report: [Project_Report.pdf](https://github.com/smartinternz02/SPSGP-56412-Virtual-Internship---Android-Application-Development-Using-Kotlin/files/9678896/Project_Report.pdf)
 
 Video Demo Link: https://drive.google.com/drive/u/0/folders/1Distk16s8jjgag2oHZ6aClel2qgQt0pb
