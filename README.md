@@ -10,7 +10,7 @@ You would be surprised to know that the general public has recognized the absolu
 
 Our app does it, but with a twisted approach.Our app holds the KISS principle which helps our app to reach the benchmark of simplicity and easy to use. In this Application works with CRUD operation. It's lightweight in nature and it can operate on 96% of mobile systems.
 
-Let's take a look it:- 
+Let's take a look at it:- 
 
 ![Screenshot (1378)](https://user-images.githubusercontent.com/87875997/193131313-520c460d-776c-465c-9ff6-848ed24c92b2.png)
 ![Screenshot (1376)](https://user-images.githubusercontent.com/87875997/193131333-b30de38a-1b7f-444f-95ce-5a9257bf6b92.png)
